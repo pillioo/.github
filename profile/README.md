@@ -1,6 +1,4 @@
-# Pillioo
-
-## Project Overview
+<img width="1680" height="1478" alt="image" src="https://github.com/user-attachments/assets/c04fc363-67ad-451c-8a96-49435e558e86" />
 
 Pillioo는 의약품 리콜 및 안전 이벤트 대응을 돕는 약사 중심 의사결정 지원 시스템입니다.
 
@@ -9,9 +7,8 @@ Pillioo는 의약품 리콜 및 안전 이벤트 대응을 돕는 약사 중심 
 이 프로젝트는 리콜 이벤트가 들어온 뒤 내부 재고와 영향을 비교하고, 관련 근거를 검색한 다음, 검토 가능한 보고서 초안을 생성하는 흐름을 구현했습니다.
 
 ## Preview
-
-
 <!-- Product Entrance 화면 캡처 삽입 위치 -->
+
 <!-- Safety Inbox 화면 캡처 삽입 위치 -->
 <!-- Ticket Workspace 화면 캡처 삽입 위치 -->
 <!-- Pharmacist Review 화면 캡처 삽입 위치 -->
@@ -77,4 +74,4 @@ npm run build
 
 | Name | Role | Contributions | Contact |
 |---|---|---|---|
-| 김지민 | PM, AI Lead & FE | Product planning, RAG pipeline, evidence sufficiency evaluation, AI orchestration, retrieval evaluation, frontend development | jimni3155@sookymung.ac.kr |
+| 김지민 | PM & AI Lead | Product planning, frontend development, <br> RAG pipeline, evidence sufficiency evaluation,<br>AI orchestration and retrieval evaluation | [jimni3155@sookmyung.ac.kr](mailto:jimni3155@sookmyung.ac.kr) |
