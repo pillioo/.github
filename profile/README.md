@@ -90,5 +90,5 @@ npm run build
 
 | Area | Documentation |
 |---|---|
-| Frontend | [View Frontend README](./pillioo-client/README.md) |
-| Backend | [View Backend README](./pillioo/README.md) |
+| Frontend | [View Frontend README](https://github.com/pillioo/pillioo-client#readme) |
+| Backend | [View Backend README](https://github.com/pillioo/pillioo#readme) |
