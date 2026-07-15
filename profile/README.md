@@ -85,3 +85,10 @@ npm run build
 | Name | Role | Contributions | Contact |
 |---|---|---|---|
 | 김지민 | PM & AI Lead | Product planning, frontend development, <br> RAG pipeline, evidence sufficiency evaluation,<br>AI orchestration and retrieval evaluation | [jimni3155@sookmyung.ac.kr](mailto:jimni3155@sookmyung.ac.kr) |
+
+## Documentation
+
+| Area | Documentation |
+|---|---|
+| Frontend | [View Frontend README](./pillioo-client/README.md) |
+| Backend | [View Backend README](./pillioo/README.md) |
