@@ -84,7 +84,7 @@ npm run build
 
 | Name | Role | Contributions | Contact |
 |---|---|---|---|
-| 김지민 | PM & AI Lead | Product planning, frontend development, <br> RAG pipeline, evidence sufficiency evaluation,<br>AI orchestration and retrieval evaluation | [jimni3155@sookmyung.ac.kr](mailto:jimni3155@sookmyung.ac.kr) |
+| 김지민 | PM & AI Lead & FE | Product planning, frontend development, <br> RAG pipeline, evidence sufficiency evaluation,<br>AI orchestration and retrieval evaluation | [jimni3155@sookmyung.ac.kr](mailto:jimni3155@sookmyung.ac.kr) |
 
 ## Documentation
 
