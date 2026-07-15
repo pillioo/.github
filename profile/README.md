@@ -84,7 +84,17 @@ npm run build
 
 | Name | Role | Contributions | Contact |
 |---|---|---|---|
-| 김지민 | PM & AI Lead & FE | Product planning, frontend development, <br> RAG pipeline, evidence sufficiency evaluation,<br>AI orchestration and retrieval evaluation | [jimni3155@sookmyung.ac.kr](mailto:jimni3155@sookmyung.ac.kr) |
+| 김지민 | PM & AI Lead & FE | Product strategy & service design, frontend development, <br>RAG pipeline, evidence sufficiency evaluation, <br> AI orchestration, retrieval evaluation | [jimni3155@sm.ac.kr](mailto:jimni3155@sm.ac.kr) |
+| 이지현 | BE & LLM Integration | Event normalization, LLM-based draft generation,<br>safety checks, review and approval workflows,<br>audit logging, multi-turn chat integration | [maryanna0427@sm.ac.kr](mailto:maryanna0427@sm.ac.kr) |
+| 임수진 | BE | openFDA data ingestion pipeline,<br>event deduplication, ticketing API development,<br>inventory matching, risk triaging engine | [imsujine@sm.ac.kr](mailto:imsujine@sm.ac.kr) |
+| 남윤아 | BE & Infra |Dashboard and inventory API development,<br>eval runner implementation, AWS infrastructure setup,<br>frontend API | [yoona120808@gmail.com](mailto:yoona120808@gmail.com) |
+| 방지희 | Infra | AWS deployment, Docker infrastructure,<br>Milvus and PostgreSQL integration,<br>Cloudflare Tunnel configuration, API integration | [bangjh@sm.ac.kr](mailto:bangjh@sm.ac.kr) |
+| 정세인 | Clinical Decision Advisor <br> Meeting Moderator | Pharmaceutical domain expertise,<br>external research collaboration <br>clinical alignment | [sseinii@sm.ac.kr](mailto:sseinii@sm.ac.kr) |
+
+
+
+
+
 
 ## Documentation
 
