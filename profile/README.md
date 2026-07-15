@@ -6,6 +6,15 @@ Pillioo는 의약품 리콜 및 안전 이벤트 대응을 돕는 약사 중심 
 
 이 프로젝트는 리콜 이벤트가 들어온 뒤 내부 재고와 영향을 비교하고, 관련 근거를 검색한 다음, 검토 가능한 보고서 초안을 생성하는 흐름을 구현했습니다.
 
+---
+
+Pillioo is a pharmacist-centered decision support system designed to help manage pharmaceutical recalls and safety events.
+
+It connects external recall information, internal inventory data, supporting evidence, AI-generated report drafts, pharmacist review, approval history, and audit logs within a single workflow. The system does not make final decisions automatically; all outputs are intended to be reviewed by a pharmacist or another authorized professional.
+
+This project implements a workflow in which a recall event is received, its potential impact is assessed against internal inventory, relevant evidence is retrieved, and a review-ready report draft is generated.
+
+
 ## Preview
 <img width="1458" height="582" alt="image" src="https://github.com/user-attachments/assets/e58623f0-d4fa-454b-b40f-f49b78a522ce" />
 <img width="1436" height="590" alt="image" src="https://github.com/user-attachments/assets/4626fb4c-98f1-487e-9a1e-624022fca3d7" />
