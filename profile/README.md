@@ -27,6 +27,10 @@ This project implements a workflow in which a recall event is received, its pote
 
 ## Demo
 
+<video src="./pillioo_깃허브영상.mp4" controls width="100%"></video>
+
+[Watch the demo video](./pillioo_깃허브영상.mp4)
+
 
 
 ## Tech Stack
