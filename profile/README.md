@@ -7,17 +7,18 @@ Pillioo는 의약품 리콜 및 안전 이벤트 대응을 돕는 약사 중심 
 이 프로젝트는 리콜 이벤트가 들어온 뒤 내부 재고와 영향을 비교하고, 관련 근거를 검색한 다음, 검토 가능한 보고서 초안을 생성하는 흐름을 구현했습니다.
 
 ## Preview
-<!-- Product Entrance 화면 캡처 삽입 위치 -->
+<img width="1458" height="582" alt="image" src="https://github.com/user-attachments/assets/e58623f0-d4fa-454b-b40f-f49b78a522ce" />
+<img width="1436" height="590" alt="image" src="https://github.com/user-attachments/assets/4626fb4c-98f1-487e-9a1e-624022fca3d7" />
+<img width="1456" height="576" alt="image" src="https://github.com/user-attachments/assets/9a3c3a51-a03c-4b63-bd31-0869bdb5349c" />
+<img width="1420" height="584" alt="image" src="https://github.com/user-attachments/assets/f1ee56a7-1882-4448-9c67-b2bebaf2cd86" />
+<img width="1474" height="586" alt="image" src="https://github.com/user-attachments/assets/075b03da-f47b-446a-8b8c-c14503128bf0" />
+<img width="1462" height="592" alt="image" src="https://github.com/user-attachments/assets/e722c23c-c68c-4803-bfbd-8dd5720ee6e2" />
+<img width="1414" height="590" alt="image" src="https://github.com/user-attachments/assets/8fa30fa9-f5f2-490c-866c-6830ad16581a" />
 
-<!-- Safety Inbox 화면 캡처 삽입 위치 -->
-<!-- Ticket Workspace 화면 캡처 삽입 위치 -->
-<!-- Pharmacist Review 화면 캡처 삽입 위치 -->
-<!-- Evidence 또는 Report 화면 캡처 삽입 위치 -->
-<!-- 데모 GIF 또는 영상 삽입 위치 -->
 
 ## Demo
 
-<!-- 영상 -->
+
 
 ## Tech Stack
 
